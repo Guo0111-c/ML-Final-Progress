@@ -1,6 +1,6 @@
 import numpy as np
 import time
-from simulation_and_control import feedback_lin_ctrl
+from simulation_utilities import feedback_lin_ctrl
 from simulation_utilities import (
     SimulationSetup,
     RobotStateReader,
